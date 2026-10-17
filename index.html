@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      Nawshad Hamid — Senior Android Developer | Kotlin, Jetpack Compose,
+      Flutter
+    </title>
+    <meta
+      name="description"
+      content="Senior Android Developer with 11–12 years of experience in Kotlin, Jetpack Compose, Flutter, and production app maintenance. Based in Dhaka, Bangladesh."
+    />
+    <meta name="author" content="Nawshad Hamid" />
+    <meta
+      name="keywords"
+      content="Nawshad Hamid, Senior Android Developer, Kotlin, Jetpack Compose, Flutter, Android TV, Mobile Application Engineer, WebRTC, TopOfStack Software"
+    />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:title"
+      content="Nawshad Hamid — Senior Android Developer | Kotlin, Jetpack Compose, Flutter"
+    />
+    <meta
+      property="og:description"
+      content="Senior Android Developer with 11–12 years of experience in Kotlin, Jetpack Compose, Flutter, and production app maintenance. Based in Dhaka, Bangladesh."
+    />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Nawshad Hamid — Senior Android Developer"
+    />
+    <meta
+      name="twitter:description"
+      content="Senior Android Developer with 11–12 years of experience in Kotlin, Jetpack Compose, Flutter, and production app maintenance."
+    />
+
+    <link rel="icon" type="image/x-icon" href="./favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&family=Outfit:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      (function () {
+        try {
+          var saved = localStorage.getItem("theme");
+          var systemDark =
+            window.matchMedia &&
+            window.matchMedia("(prefers-color-scheme: dark)").matches;
+          if (saved === "light") {
+            document.documentElement.classList.remove("dark");
+          } else {
+            // Default to dark mode for Android developer aesthetic
+            document.documentElement.classList.add("dark");
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+
+  <body
+    class="bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100 transition-colors duration-300"
+  >
+    <div id="root"></div>
+    <script type="module" src="./src/main.tsx"></script>
+  </body>
+</html>
