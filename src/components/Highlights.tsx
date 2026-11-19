@@ -20,7 +20,7 @@ export const Highlights: React.FC = () => {
         "bg-emerald-100 text-emerald-800 dark:bg-emerald-500/10 dark:text-emerald-300",
     },
     {
-      stat: "1.5",
+      stat: "3",
       unit: "Years",
       title: "Flutter Development",
       subtitle: "Multiplatform Dart & BLoC",

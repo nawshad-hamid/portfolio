@@ -110,7 +110,7 @@ export const About: React.FC = () => {
                   <span className="text-emerald-600 dark:text-emerald-400 font-medium">
                     Kotlin, Java, XML, and Jetpack Compose
                   </span>
-                  , complemented by 1.5 years of Flutter development.
+                  , complemented by 3 years of Flutter development.
                 </p>
                 <p>
                   I enjoy building complete, polished Android applications

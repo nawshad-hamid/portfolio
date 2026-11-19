@@ -50,7 +50,7 @@ export const Bio = {
   intro:
     "Mobile developer with 7–8 years of experience, specializing in native Android with Kotlin, Java, and Jetpack Compose, plus Flutter for Android, iOS, and Windows desktop.",
   aboutDetailed: [
-    "I am a senior mobile application developer based in Dhaka, Bangladesh, with approximately 7–8 years of professional experience at TopOfStack Software. My core specialization is native Android development using Kotlin, Java, XML, and Jetpack Compose, complemented by 1.5 years of Flutter development.",
+    "I am a senior mobile application developer based in Dhaka, Bangladesh, with approximately 7–8 years of professional experience at TopOfStack Software. My core specialization is native Android development using Kotlin, Java, XML, and Jetpack Compose, complemented by 3 years of Flutter development.",
     "I enjoy building complete, polished Android applications quickly with Jetpack Compose and Single-Activity Architecture, and I am equally comfortable maintaining established production apps across Android, iOS, Windows desktop, and Android TV. My work spans MVVM and Clean Architecture, modularization, background processing, audio downloading and offline functionality, WebRTC-based voice calling, and Android TV apps built for continuous operation.",
     "Before changing any code, I study the existing project: its architecture, dependencies, lifecycle behavior, and regression risks. I use Claude as a productivity multiplier for planning, codebase analysis, review, edge-case identification, and test scenarios, while applying my own engineering judgment and verifying every change before delivery.",
   ],
@@ -74,7 +74,7 @@ export const Bio = {
     },
     {
       label: "Flutter Development",
-      value: "1.5",
+      value: "3",
       unit: "Years",
       description: "Mobile & Desktop Cross-Platform",
     },

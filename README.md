@@ -16,7 +16,7 @@ Designed with **Android Material 3 & Jetpack Compose aesthetics**, showcasing na
     - **Permis Go** (Flutter Android & iOS) — European driving education progress, lesson booking.
     - **Muslim Bangla Signage** (Android TV) — 24/7 mosque digital signage, auto-restart status, OTA sync.
     - **Muslim Bangla Windows** (Desktop) — Flutter on Windows desktop, system tray & window management.
-- **Key Engineering Metrics**: Stat counters highlighting 7–8 Years Experience, 1.5 Years Flutter, 4 Platforms, and 5 Production Apps.
+- **Key Engineering Metrics**: Stat counters highlighting 7–8 Years Experience, 3 Years Flutter, 4 Platforms, and 5 Production Apps.
 - **Detailed About & Principles**: Highlighting architecture analysis, lifecycle management, backward compatibility, and AI-assisted engineering with Claude.
 - **Categorized Skills**: Filterable & searchable across Native Android, Architecture, Flutter, Real-Time & Integrations, Quality, and Tools.
 - **Confirmed Experience**: 2018 – Present at TopOfStack Software with comprehensive deliverables.
