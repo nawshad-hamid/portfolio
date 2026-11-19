@@ -47,7 +47,7 @@ export const HowIWork: React.FC = () => {
             How I Work & Build Resilient Systems
           </h2>
           <p className="text-base text-slate-600 dark:text-slate-300">
-            A disciplined, safety-first methodology refined over 11–12 years in
+            A disciplined, safety-first methodology refined over 7–8 years in
             production mobile engineering.
           </p>
         </div>

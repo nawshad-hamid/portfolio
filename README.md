@@ -1,6 +1,6 @@
 # Nawshad Hamid — Senior Android Developer Portfolio
 
-An interactive, responsive portfolio crafted specifically for **Nawshad Hamid**, Senior Android Developer and Mobile Application Engineer with 11–12 years of professional experience.
+An interactive, responsive portfolio crafted specifically for **Nawshad Hamid**, Senior Android Developer and Mobile Application Engineer with 7–8 years of professional experience.
 
 Designed with **Android Material 3 & Jetpack Compose aesthetics**, showcasing native Android mastery, Flutter cross-platform expertise, and 24/7 Android TV deployments.
 
@@ -16,7 +16,7 @@ Designed with **Android Material 3 & Jetpack Compose aesthetics**, showcasing na
     - **Permis Go** (Flutter Android & iOS) — European driving education progress, lesson booking.
     - **Muslim Bangla Signage** (Android TV) — 24/7 mosque digital signage, auto-restart status, OTA sync.
     - **Muslim Bangla Windows** (Desktop) — Flutter on Windows desktop, system tray & window management.
-- **Key Engineering Metrics**: Stat counters highlighting 11–12 Years Experience, 1.5 Years Flutter, 4 Platforms, and 5 Production Apps.
+- **Key Engineering Metrics**: Stat counters highlighting 7–8 Years Experience, 1.5 Years Flutter, 4 Platforms, and 5 Production Apps.
 - **Detailed About & Principles**: Highlighting architecture analysis, lifecycle management, backward compatibility, and AI-assisted engineering with Claude.
 - **Categorized Skills**: Filterable & searchable across Native Android, Architecture, Flutter, Real-Time & Integrations, Quality, and Tools.
 - **Confirmed Experience**: 2014 – Present at TopOfStack Software with comprehensive deliverables.
@@ -73,12 +73,14 @@ npm run deploy
 ```
 
 What this script (`scripts/deploy.cjs`) does:
+
 1. Builds the project (`npm run build`).
 2. Creates `.nojekyll` to prevent GitHub Pages from ignoring special directories.
 3. Copies `index.html` to `404.html` for clean client-side routing.
 4. Pushes the `dist` directory to your repository's `gh-pages` branch using the `gh-pages` package.
 
 Once deployed, enable GitHub Pages in your GitHub repository:
+
 - Go to **Settings** → **Pages**
 - Source: **Deploy from a branch**
 - Branch: **`gh-pages`** / folder: **`/ (root)`**
@@ -90,6 +92,7 @@ A ready-to-use GitHub Actions workflow is included at `.github/workflows/deploy.
 Whenever you push to the `main` branch, GitHub Actions will automatically test, build, and deploy the portfolio to GitHub Pages!
 
 To enable:
+
 - Go to **Settings** → **Pages**
 - Source: **GitHub Actions**
 - Push your changes to `main`.
@@ -111,7 +114,7 @@ nawshad-portfolio/
 │   └── deploy.cjs              # GitHub Pages deployment automation script
 ├── src/
 │   ├── components/
-│   │   ├── About.tsx           # 11-12 yrs bio & TopOfStack history
+│   │   ├── About.tsx           # 7-8 yrs bio & TopOfStack history
 │   │   ├── Contact.tsx         # Direct email, phone, location, LinkedIn & GitHub
 │   │   ├── Education.tsx       # BSc in CSE from UODA (2017)
 │   │   ├── Experience.tsx      # TopOfStack Software detailed career timeline
@@ -144,6 +147,7 @@ nawshad-portfolio/
 ## 👤 Author
 
 **Nawshad Hamid**
+
 - Senior Android Developer | Senior Mobile Application Engineer
 - Email: [nawshadhamid@gmail.com](mailto:nawshadhamid@gmail.com)
 - Phone: +880 1743860793

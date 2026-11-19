@@ -222,7 +222,7 @@ export const Hero: React.FC = () => {
                   </div>
                   <div className="text-left">
                     <p className="text-xs font-black text-slate-900 dark:text-white">
-                      11–12 Years
+                      7–8 Years
                     </p>
                     <p className="text-[10px] text-slate-500 dark:text-slate-400">
                       Experience

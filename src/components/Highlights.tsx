@@ -4,7 +4,7 @@ import { Briefcase, Layers, Laptop, Smartphone, Sparkles } from "lucide-react";
 export const Highlights: React.FC = () => {
   const cards = [
     {
-      stat: "11–12",
+      stat: "7–8",
       unit: "Years",
       title: "Professional Experience",
       subtitle: "TopOfStack Software (2014 – Present)",
@@ -84,7 +84,7 @@ export const Highlights: React.FC = () => {
             Proven Senior Engineering Impact
           </h2>
           <p className="text-sm text-slate-600 dark:text-slate-400 max-w-xl mx-auto">
-            11–12 years of hands-on production engineering, building scalable
+            7–8 years of hands-on production engineering, building scalable
             applications and maintaining stability across millions of device
             interactions.
           </p>

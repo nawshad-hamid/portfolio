@@ -45,7 +45,7 @@ export const About: React.FC = () => {
     {
       title: "Claude AI-Assisted Engineering",
       description:
-        "Leveraging Claude for deep codebase exploration, edge-case simulation, and test planning—verified with 11+ years of human judgment.",
+        "Leveraging Claude for deep codebase exploration, edge-case simulation, and test planning—verified with 7+ years of human judgment.",
       icon: Cpu,
       color: "indigo",
       badge: "AI-Augmented",
@@ -69,7 +69,7 @@ export const About: React.FC = () => {
             <span>About Nawshad Hamid</span>
           </div>
           <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-900 dark:text-white tracking-tight">
-            Senior Mobile Application Engineer with 11–12 Years Experience
+            Senior Mobile Application Engineer with 7–8 Years Experience
           </h2>
           <p className="text-base text-slate-600 dark:text-slate-300">
             Specializing in high-performance native Android, multiplatform
@@ -103,7 +103,7 @@ export const About: React.FC = () => {
                   I am a senior mobile application developer based in Dhaka,
                   Bangladesh, with approximately{" "}
                   <strong className="text-slate-900 dark:text-white font-semibold">
-                    11–12 years of professional experience
+                    7–8 years of professional experience
                   </strong>{" "}
                   at TopOfStack Software. My core specialization is native
                   Android development using{" "}
@@ -155,7 +155,7 @@ export const About: React.FC = () => {
                 </div>
                 <div className="flex items-center gap-2 col-span-2 sm:col-span-1">
                   <Calendar className="w-4 h-4 text-indigo-600 dark:text-indigo-400" />
-                  <span>11–12 Yrs Tenure</span>
+                  <span>7–8 Yrs Tenure</span>
                 </div>
               </div>
             </div>
