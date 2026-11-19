@@ -19,7 +19,7 @@ Designed with **Android Material 3 & Jetpack Compose aesthetics**, showcasing na
 - **Key Engineering Metrics**: Stat counters highlighting 7–8 Years Experience, 1.5 Years Flutter, 4 Platforms, and 5 Production Apps.
 - **Detailed About & Principles**: Highlighting architecture analysis, lifecycle management, backward compatibility, and AI-assisted engineering with Claude.
 - **Categorized Skills**: Filterable & searchable across Native Android, Architecture, Flutter, Real-Time & Integrations, Quality, and Tools.
-- **Confirmed Experience**: 2014 – Present at TopOfStack Software with comprehensive deliverables.
+- **Confirmed Experience**: 2018 – Present at TopOfStack Software with comprehensive deliverables.
 - **Live Store Links**: Direct links to Google Play Store, Microsoft Store, and Apple App Store.
 - **One-Click Contact**: Pre-configured email, phone copy, location, LinkedIn, and GitHub links.
 

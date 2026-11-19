@@ -70,7 +70,7 @@ export const Bio = {
       label: "Professional Experience",
       value: "7–8",
       unit: "Years",
-      description: "TopOfStack Software (2014 – Present)",
+      description: "TopOfStack Software (2018 – Present)",
     },
     {
       label: "Flutter Development",
@@ -218,7 +218,7 @@ export const experienceData = [
   {
     company: "TopOfStack Software",
     role: "Senior Android Developer / Mobile Application Developer",
-    period: "2014 – Present",
+    period: "2018 – Present",
     duration: "7–8 Years",
     location: "Dhaka, Bangladesh",
     type: "Full-Time",

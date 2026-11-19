@@ -7,7 +7,7 @@ export const Highlights: React.FC = () => {
       stat: "7–8",
       unit: "Years",
       title: "Professional Experience",
-      subtitle: "TopOfStack Software (2014 – Present)",
+      subtitle: "TopOfStack Software (2018 – Present)",
       description:
         "Over a decade delivering native Android and production mobile apps with deep backward compatibility and reliability.",
       icon: Briefcase,

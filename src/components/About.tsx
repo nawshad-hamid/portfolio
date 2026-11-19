@@ -92,7 +92,7 @@ export const About: React.FC = () => {
                     Engineering Background
                   </h3>
                   <p className="text-xs text-slate-500 dark:text-slate-400 font-mono">
-                    TopOfStack Software • 2014 – Present
+                    TopOfStack Software • 2018 – Present
                   </p>
                 </div>
               </div>
